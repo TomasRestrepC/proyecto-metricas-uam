@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Métricas Web - UAM</title>
+    <style>
+        :root {
+            --primary: #1e3a8a;
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-color: #1e293b;
+            --good: #10b981;
+            --warning: #f59e0b;
+            --bad: #ef4444;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 2rem;
+            border-radius: 12px;
+            text-align: center;
+            margin-bottom: 2rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 { margin: 0 0 10px 0; font-size: 2rem; }
+        p { margin: 0; opacity: 0.9; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            border-top: 5px solid var(--primary);
+        }
+        .card h3 { margin-top: 0; color: var(--primary); word-break: break-all; font-size: 1.1rem; }
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 10px;
+        }
+        .metric-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid #f1f5f9;
+            font-size: 0.95rem;
+        }
+        .metric-row:last-child { border-bottom: none; }
+        .tag {
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+        .tag-good { background-color: #d1fae5; color: #065f46; }
+        .tag-warning { background-color: #fef3c7; color: #92400e; }
+        .tag-bad { background-color: #fee2e2; color: #991b1b; }
+        .timestamp { font-size: 0.8rem; color: #64748b; margin-top: 15px; text-align: right; }
+        .empty-state { text-align: center; padding: 40px; background: white; border-radius: 12px; color: #64748b; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Universidad Autónoma de Manizales</h1>
+        <p>Proyecto: Automatización de Métricas Web con Lighthouse y Cypress</p>
+    </header>
+
+    <div id="metrics-container" class="grid">
+        <div class="empty-state">Cargando métricas institucionales...</div>
+    </div>
+</div>
+
+<script>
+    // Umbrales configurables (Sección 9 del taller)
+    const thresholds = {
+        fcp: { good: 1800, bad: 3000 },
+        lcp: { good: 2500, bad: 4000 },
+        speedIndex: { good: 3400, bad: 5800 },
+        performance: { good: 90, bad: 50 }
+    };
+
+    function getClassification(metricName, val) {
+        if (metricName === 'performance') {
+            if (val >= thresholds.performance.good) return { text: '🟢 Bueno', class: 'tag-good' };
+            if (val >= thresholds.performance.bad) return { text: '🟡 Por mejorar', class: 'tag-warning' };
+            return { text: '🔴 Deficiente', class: 'tag-bad' };
+        } else {
+            // Métricas de tiempo (ms)
+            if (val <= thresholds[metricName].good) return { text: '🟢 Bueno', class: 'tag-good' };
+            if (val <= thresholds[metricName].bad) return { text: '🟡 Por mejorar', class: 'tag-warning' };
+            return { text: '🔴 Deficiente', class: 'tag-bad' };
+        }
+    }
+
+    async function loadMetrics() {
+        try {
+            // Cargamos el archivo JSON generado por Cypress
+            const response = await fetch('./cypress/fixtures/lighthouse-metrics.json');
+            if (!response.ok) throw new Error('No hay registros aún.');
+            const data = await response.json();
+
+            const container = document.getElementById('metrics-container');
+            if (data.length === 0) {
+                container.innerHTML = '<div class="empty-state">No hay registros de métricas disponibles todavía. Ejecuta las pruebas de Cypress.</div>';
+                return;
+            }
+
+            container.innerHTML = '';
+
+            // Mostramos las últimas ejecuciones
+            data.reverse().forEach(item => {
+                const fcpSec = (item.firstContentfulPaint / 1000).toFixed(1) + 's';
+                const lcpSec = (item.largestContentfulPaint / 1000).toFixed(1) + 's';
+                const siSec = (item.speedIndex / 1000).toFixed(1) + 's';
+
+                const fcpClass = getClassification('fcp', item.firstContentfulPaint);
+                const lcpClass = getClassification('lcp', item.largestContentfulPaint);
+                const siClass = getClassification('speedIndex', item.speedIndex);
+                const perfClass = getClassification('performance', item.performance);
+
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <span class="badge" style="background-color: ${item.screenEmulation.includes('Moto') ? '#0284c7' : '#4f46e5'}">${item.screenEmulation}</span>
+                    <h3>${item.url}</h3>
+                    
+                    <div class="metric-row">
+                        <span><strong>FCP:</strong> ${fcpSec}</span>
+                        <span class="tag ${fcpClass.class}">${fcpClass.text}</span>
+                    </div>
+                    <div class="metric-row">
+                        <span><strong>LCP:</strong> ${lcpSec}</span>
+                        <span class="tag ${lcpClass.class}">${lcpClass.text}</span>
+                    </div>
+                    <div class="metric-row">
+                        <span><strong>Speed Index:</strong> ${siSec}</span>
+                        <span class="tag ${siClass.class}">${siClass.text}</span>
+                    </div>
+                    <div class="metric-row">
+                        <span><strong>Performance:</strong> ${item.performance}/100</span>
+                        <span class="tag ${perfClass.class}">${perfClass.text}</span>
+                    </div>
+
+                    <div class="timestamp">Medición: ${new Date(item.timestamp).toLocaleString()}</div>
+                `;
+                container.appendChild(card);
+            });
+
+        } catch (error) {
+            document.getElementById('metrics-container').innerHTML = `
+                <div class="empty-state">
+                    <h3>Aún no se encuentra el archivo de métricas.</h3>
+                    <p>Ejecuta <code>npx cypress run --browser chrome --spec "cypress/e2e/performance.cy.js"</code> para generar los datos iniciales.</p>
+                </div>`;
+        }
+    }
+
+    loadMetrics();
+</script>
+
+</body>
+</html>
