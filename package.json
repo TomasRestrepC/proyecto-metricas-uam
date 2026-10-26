@@ -1,0 +1,18 @@
+{
+  "name": "proyecto-metricas-uam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cypress-audit/lighthouse": "^1.4.2",
+    "cypress": "^16.2.0",
+    "node-cron": "^4.6.0"
+  }
+}

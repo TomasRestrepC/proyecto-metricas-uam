@@ -1,0 +1,11 @@
+# Dependencias
+node_modules/
+
+# Cypress temporal / videos / capturas
+cypress/videos/
+cypress/screenshots/
+Cypress/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
