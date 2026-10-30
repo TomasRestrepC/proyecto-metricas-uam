@@ -58,5 +58,1555 @@
     "speedIndex": 1551,
     "performance": 83,
     "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-27T13:16:51.327Z",
+    "firstContentfulPaint": 1955,
+    "largestContentfulPaint": 2554,
+    "speedIndex": 2289,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-27T13:17:42.128Z",
+    "firstContentfulPaint": 1758,
+    "largestContentfulPaint": 2392,
+    "speedIndex": 1583,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-27T13:18:09.039Z",
+    "firstContentfulPaint": 1462,
+    "largestContentfulPaint": 2970,
+    "speedIndex": 1877,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-27T13:18:43.949Z",
+    "firstContentfulPaint": 1762,
+    "largestContentfulPaint": 2275,
+    "speedIndex": 1959,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-27T13:19:10.835Z",
+    "firstContentfulPaint": 1359,
+    "largestContentfulPaint": 2824,
+    "speedIndex": 2309,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-27T13:19:45.405Z",
+    "firstContentfulPaint": 1554,
+    "largestContentfulPaint": 2995,
+    "speedIndex": 2152,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:45:40.121Z",
+    "firstContentfulPaint": 1324,
+    "largestContentfulPaint": 2696,
+    "speedIndex": 2098,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:45:40.145Z",
+    "firstContentfulPaint": 1933,
+    "largestContentfulPaint": 2984,
+    "speedIndex": 1600,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:46:00.595Z",
+    "firstContentfulPaint": 1248,
+    "largestContentfulPaint": 2226,
+    "speedIndex": 1706,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/oferta-academica",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:46:00.599Z",
+    "firstContentfulPaint": 1407,
+    "largestContentfulPaint": 2811,
+    "speedIndex": 2145,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:46:15.790Z",
+    "firstContentfulPaint": 1924,
+    "largestContentfulPaint": 2428,
+    "speedIndex": 2109,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:46:15.935Z",
+    "firstContentfulPaint": 1775,
+    "largestContentfulPaint": 2805,
+    "speedIndex": 2301,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:46:31.287Z",
+    "firstContentfulPaint": 1425,
+    "largestContentfulPaint": 2291,
+    "speedIndex": 1853,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:46:31.980Z",
+    "firstContentfulPaint": 1225,
+    "largestContentfulPaint": 2808,
+    "speedIndex": 1716,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:46:45.094Z",
+    "firstContentfulPaint": 1730,
+    "largestContentfulPaint": 2512,
+    "speedIndex": 1897,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T15:46:45.726Z",
+    "firstContentfulPaint": 1434,
+    "largestContentfulPaint": 2482,
+    "speedIndex": 2199,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:47:04.005Z",
+    "firstContentfulPaint": 1360,
+    "largestContentfulPaint": 2201,
+    "speedIndex": 2176,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/noticias",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T15:47:05.562Z",
+    "firstContentfulPaint": 1829,
+    "largestContentfulPaint": 2930,
+    "speedIndex": 2080,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:00:35.768Z",
+    "firstContentfulPaint": 1816,
+    "largestContentfulPaint": 2041,
+    "speedIndex": 2104,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:00:36.096Z",
+    "firstContentfulPaint": 1664,
+    "largestContentfulPaint": 2484,
+    "speedIndex": 1850,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:00:51.674Z",
+    "firstContentfulPaint": 1847,
+    "largestContentfulPaint": 2504,
+    "speedIndex": 2218,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:00:51.698Z",
+    "firstContentfulPaint": 1236,
+    "largestContentfulPaint": 2724,
+    "speedIndex": 1629,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:01:09.610Z",
+    "firstContentfulPaint": 1937,
+    "largestContentfulPaint": 2796,
+    "speedIndex": 1794,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:01:10.331Z",
+    "firstContentfulPaint": 1268,
+    "largestContentfulPaint": 2748,
+    "speedIndex": 1816,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:01:28.404Z",
+    "firstContentfulPaint": 1910,
+    "largestContentfulPaint": 2577,
+    "speedIndex": 1617,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:01:29.109Z",
+    "firstContentfulPaint": 1907,
+    "largestContentfulPaint": 2970,
+    "speedIndex": 1520,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:01:42.128Z",
+    "firstContentfulPaint": 1433,
+    "largestContentfulPaint": 2286,
+    "speedIndex": 2112,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:01:42.973Z",
+    "firstContentfulPaint": 1839,
+    "largestContentfulPaint": 2005,
+    "speedIndex": 2035,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:02:01.910Z",
+    "firstContentfulPaint": 1820,
+    "largestContentfulPaint": 2441,
+    "speedIndex": 1757,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:02:02.950Z",
+    "firstContentfulPaint": 1249,
+    "largestContentfulPaint": 2075,
+    "speedIndex": 1766,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:02:19.359Z",
+    "firstContentfulPaint": 1467,
+    "largestContentfulPaint": 2594,
+    "speedIndex": 1642,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:02:20.916Z",
+    "firstContentfulPaint": 1247,
+    "largestContentfulPaint": 2890,
+    "speedIndex": 1690,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:02:36.931Z",
+    "firstContentfulPaint": 1578,
+    "largestContentfulPaint": 2320,
+    "speedIndex": 1910,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:02:37.917Z",
+    "firstContentfulPaint": 1558,
+    "largestContentfulPaint": 2568,
+    "speedIndex": 2268,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:15:33.698Z",
+    "firstContentfulPaint": 1643,
+    "largestContentfulPaint": 2435,
+    "speedIndex": 1704,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:15:34.310Z",
+    "firstContentfulPaint": 1459,
+    "largestContentfulPaint": 2914,
+    "speedIndex": 2263,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:15:50.137Z",
+    "firstContentfulPaint": 1791,
+    "largestContentfulPaint": 2498,
+    "speedIndex": 2174,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:15:50.192Z",
+    "firstContentfulPaint": 1364,
+    "largestContentfulPaint": 2926,
+    "speedIndex": 2358,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:16:08.327Z",
+    "firstContentfulPaint": 1730,
+    "largestContentfulPaint": 2003,
+    "speedIndex": 1924,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:16:08.396Z",
+    "firstContentfulPaint": 1749,
+    "largestContentfulPaint": 2168,
+    "speedIndex": 1792,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:16:26.480Z",
+    "firstContentfulPaint": 1534,
+    "largestContentfulPaint": 2919,
+    "speedIndex": 1865,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:16:26.627Z",
+    "firstContentfulPaint": 1585,
+    "largestContentfulPaint": 2900,
+    "speedIndex": 2283,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:16:39.567Z",
+    "firstContentfulPaint": 1216,
+    "largestContentfulPaint": 2036,
+    "speedIndex": 1973,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:16:39.855Z",
+    "firstContentfulPaint": 1886,
+    "largestContentfulPaint": 2449,
+    "speedIndex": 1960,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:16:58.837Z",
+    "firstContentfulPaint": 1377,
+    "largestContentfulPaint": 2404,
+    "speedIndex": 1705,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:16:59.501Z",
+    "firstContentfulPaint": 1906,
+    "largestContentfulPaint": 2969,
+    "speedIndex": 1952,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:17:15.951Z",
+    "firstContentfulPaint": 1475,
+    "largestContentfulPaint": 2270,
+    "speedIndex": 1796,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:17:16.508Z",
+    "firstContentfulPaint": 1749,
+    "largestContentfulPaint": 2700,
+    "speedIndex": 2400,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:17:33.007Z",
+    "firstContentfulPaint": 1787,
+    "largestContentfulPaint": 2110,
+    "speedIndex": 1977,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:17:33.528Z",
+    "firstContentfulPaint": 1371,
+    "largestContentfulPaint": 2176,
+    "speedIndex": 2176,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:30:23.436Z",
+    "firstContentfulPaint": 1779,
+    "largestContentfulPaint": 2785,
+    "speedIndex": 1731,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:30:25.031Z",
+    "firstContentfulPaint": 1814,
+    "largestContentfulPaint": 2348,
+    "speedIndex": 2218,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:30:36.047Z",
+    "firstContentfulPaint": 1388,
+    "largestContentfulPaint": 2045,
+    "speedIndex": 1603,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:30:37.015Z",
+    "firstContentfulPaint": 1640,
+    "largestContentfulPaint": 2778,
+    "speedIndex": 2023,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:30:50.672Z",
+    "firstContentfulPaint": 1589,
+    "largestContentfulPaint": 2188,
+    "speedIndex": 1625,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:30:51.719Z",
+    "firstContentfulPaint": 1214,
+    "largestContentfulPaint": 2677,
+    "speedIndex": 1995,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:03.232Z",
+    "firstContentfulPaint": 1885,
+    "largestContentfulPaint": 2843,
+    "speedIndex": 1683,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:05.389Z",
+    "firstContentfulPaint": 1506,
+    "largestContentfulPaint": 2738,
+    "speedIndex": 2191,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:31:13.730Z",
+    "firstContentfulPaint": 1561,
+    "largestContentfulPaint": 2786,
+    "speedIndex": 1984,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:31:15.595Z",
+    "firstContentfulPaint": 1824,
+    "largestContentfulPaint": 2832,
+    "speedIndex": 1856,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:29.457Z",
+    "firstContentfulPaint": 1878,
+    "largestContentfulPaint": 2932,
+    "speedIndex": 2257,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:31.952Z",
+    "firstContentfulPaint": 1776,
+    "largestContentfulPaint": 2210,
+    "speedIndex": 1890,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:31:39.559Z",
+    "firstContentfulPaint": 1542,
+    "largestContentfulPaint": 2756,
+    "speedIndex": 2022,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:31:43.096Z",
+    "firstContentfulPaint": 1764,
+    "largestContentfulPaint": 2602,
+    "speedIndex": 1854,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:50.657Z",
+    "firstContentfulPaint": 1577,
+    "largestContentfulPaint": 2028,
+    "speedIndex": 2105,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:31:54.212Z",
+    "firstContentfulPaint": 1490,
+    "largestContentfulPaint": 2896,
+    "speedIndex": 1526,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:45:24.420Z",
+    "firstContentfulPaint": 1767,
+    "largestContentfulPaint": 2472,
+    "speedIndex": 1850,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:45:24.591Z",
+    "firstContentfulPaint": 1712,
+    "largestContentfulPaint": 2176,
+    "speedIndex": 2356,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:45:36.329Z",
+    "firstContentfulPaint": 1402,
+    "largestContentfulPaint": 2139,
+    "speedIndex": 1719,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:45:36.528Z",
+    "firstContentfulPaint": 1335,
+    "largestContentfulPaint": 2140,
+    "speedIndex": 2385,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:45:50.728Z",
+    "firstContentfulPaint": 1962,
+    "largestContentfulPaint": 2487,
+    "speedIndex": 2204,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:45:51.247Z",
+    "firstContentfulPaint": 1696,
+    "largestContentfulPaint": 2168,
+    "speedIndex": 1968,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:46:08.394Z",
+    "firstContentfulPaint": 1858,
+    "largestContentfulPaint": 2620,
+    "speedIndex": 2243,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:46:09.099Z",
+    "firstContentfulPaint": 1202,
+    "largestContentfulPaint": 2442,
+    "speedIndex": 2286,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:46:22.388Z",
+    "firstContentfulPaint": 1552,
+    "largestContentfulPaint": 2050,
+    "speedIndex": 1705,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:46:22.555Z",
+    "firstContentfulPaint": 1232,
+    "largestContentfulPaint": 2566,
+    "speedIndex": 2038,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:46:42.260Z",
+    "firstContentfulPaint": 1254,
+    "largestContentfulPaint": 2719,
+    "speedIndex": 1931,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:46:42.349Z",
+    "firstContentfulPaint": 1589,
+    "largestContentfulPaint": 2574,
+    "speedIndex": 1671,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:47:11.332Z",
+    "firstContentfulPaint": 1284,
+    "largestContentfulPaint": 2948,
+    "speedIndex": 1808,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:47:11.390Z",
+    "firstContentfulPaint": 1205,
+    "largestContentfulPaint": 2960,
+    "speedIndex": 2137,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:47:28.447Z",
+    "firstContentfulPaint": 1471,
+    "largestContentfulPaint": 2726,
+    "speedIndex": 2100,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:47:28.818Z",
+    "firstContentfulPaint": 1767,
+    "largestContentfulPaint": 2551,
+    "speedIndex": 1995,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:54:34.681Z",
+    "firstContentfulPaint": 1398,
+    "largestContentfulPaint": 2139,
+    "speedIndex": 2390,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:54:36.292Z",
+    "firstContentfulPaint": 1861,
+    "largestContentfulPaint": 2535,
+    "speedIndex": 2091,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:54:51.267Z",
+    "firstContentfulPaint": 1732,
+    "largestContentfulPaint": 2254,
+    "speedIndex": 1524,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:54:52.649Z",
+    "firstContentfulPaint": 1252,
+    "largestContentfulPaint": 2984,
+    "speedIndex": 2174,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:55:09.793Z",
+    "firstContentfulPaint": 1644,
+    "largestContentfulPaint": 2723,
+    "speedIndex": 1733,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:55:10.726Z",
+    "firstContentfulPaint": 1798,
+    "largestContentfulPaint": 2952,
+    "speedIndex": 1505,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:55:28.515Z",
+    "firstContentfulPaint": 1999,
+    "largestContentfulPaint": 2128,
+    "speedIndex": 2027,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:55:29.634Z",
+    "firstContentfulPaint": 1940,
+    "largestContentfulPaint": 2978,
+    "speedIndex": 2376,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:55:41.487Z",
+    "firstContentfulPaint": 1980,
+    "largestContentfulPaint": 2463,
+    "speedIndex": 2322,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:55:42.834Z",
+    "firstContentfulPaint": 1961,
+    "largestContentfulPaint": 2497,
+    "speedIndex": 1545,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:01.828Z",
+    "firstContentfulPaint": 1857,
+    "largestContentfulPaint": 2081,
+    "speedIndex": 2135,
+    "performance": 81,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:03.794Z",
+    "firstContentfulPaint": 1271,
+    "largestContentfulPaint": 2161,
+    "speedIndex": 1775,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:56:20.720Z",
+    "firstContentfulPaint": 1379,
+    "largestContentfulPaint": 2207,
+    "speedIndex": 2122,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:56:23.615Z",
+    "firstContentfulPaint": 1260,
+    "largestContentfulPaint": 2712,
+    "speedIndex": 2039,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:56:40.667Z",
+    "firstContentfulPaint": 1231,
+    "largestContentfulPaint": 2968,
+    "speedIndex": 2128,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:40.818Z",
+    "firstContentfulPaint": 1602,
+    "largestContentfulPaint": 2881,
+    "speedIndex": 1910,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:56:41.477Z",
+    "firstContentfulPaint": 1980,
+    "largestContentfulPaint": 2997,
+    "speedIndex": 1742,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:44.630Z",
+    "firstContentfulPaint": 1599,
+    "largestContentfulPaint": 2393,
+    "speedIndex": 1904,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:57.089Z",
+    "firstContentfulPaint": 1440,
+    "largestContentfulPaint": 2634,
+    "speedIndex": 2066,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:56:58.392Z",
+    "firstContentfulPaint": 1922,
+    "largestContentfulPaint": 2839,
+    "speedIndex": 1981,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:57:15.980Z",
+    "firstContentfulPaint": 1892,
+    "largestContentfulPaint": 2108,
+    "speedIndex": 2306,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:57:17.783Z",
+    "firstContentfulPaint": 1349,
+    "largestContentfulPaint": 2174,
+    "speedIndex": 2347,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T16:57:34.824Z",
+    "firstContentfulPaint": 1947,
+    "largestContentfulPaint": 2929,
+    "speedIndex": 1984,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:58:36.922Z",
+    "firstContentfulPaint": 1720,
+    "largestContentfulPaint": 2261,
+    "speedIndex": 1969,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T16:58:37.863Z",
+    "firstContentfulPaint": 1226,
+    "largestContentfulPaint": 2152,
+    "speedIndex": 1984,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:00:35.118Z",
+    "firstContentfulPaint": 1704,
+    "largestContentfulPaint": 2585,
+    "speedIndex": 2148,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:00:35.222Z",
+    "firstContentfulPaint": 1661,
+    "largestContentfulPaint": 2288,
+    "speedIndex": 2271,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:02:33.689Z",
+    "firstContentfulPaint": 1729,
+    "largestContentfulPaint": 2754,
+    "speedIndex": 2266,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:02:34.145Z",
+    "firstContentfulPaint": 1773,
+    "largestContentfulPaint": 2158,
+    "speedIndex": 1672,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:04:32.977Z",
+    "firstContentfulPaint": 1805,
+    "largestContentfulPaint": 2230,
+    "speedIndex": 2259,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:04:33.100Z",
+    "firstContentfulPaint": 1379,
+    "largestContentfulPaint": 2099,
+    "speedIndex": 2143,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:07:21.880Z",
+    "firstContentfulPaint": 1843,
+    "largestContentfulPaint": 2670,
+    "speedIndex": 1782,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:07:22.001Z",
+    "firstContentfulPaint": 1272,
+    "largestContentfulPaint": 2302,
+    "speedIndex": 1913,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:09:09.622Z",
+    "firstContentfulPaint": 1762,
+    "largestContentfulPaint": 2827,
+    "speedIndex": 2225,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T17:09:09.692Z",
+    "firstContentfulPaint": 1588,
+    "largestContentfulPaint": 2926,
+    "speedIndex": 1935,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:12:34",
+    "firstContentfulPaint": 1683,
+    "largestContentfulPaint": 2370,
+    "speedIndex": 1653,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:12:34",
+    "firstContentfulPaint": 1870,
+    "largestContentfulPaint": 2609,
+    "speedIndex": 1908,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:14:34",
+    "firstContentfulPaint": 1857,
+    "largestContentfulPaint": 2092,
+    "speedIndex": 1549,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:14:35",
+    "firstContentfulPaint": 1587,
+    "largestContentfulPaint": 2902,
+    "speedIndex": 2078,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:16:32",
+    "firstContentfulPaint": 1750,
+    "largestContentfulPaint": 2275,
+    "speedIndex": 2182,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:16:33",
+    "firstContentfulPaint": 1465,
+    "largestContentfulPaint": 2748,
+    "speedIndex": 2110,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:16:48",
+    "firstContentfulPaint": 1752,
+    "largestContentfulPaint": 2392,
+    "speedIndex": 2009,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:16:49",
+    "firstContentfulPaint": 1687,
+    "largestContentfulPaint": 2533,
+    "speedIndex": 2269,
+    "performance": 86,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:17:06",
+    "firstContentfulPaint": 1915,
+    "largestContentfulPaint": 2878,
+    "speedIndex": 2039,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:17:07",
+    "firstContentfulPaint": 1488,
+    "largestContentfulPaint": 2624,
+    "speedIndex": 1976,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:17:24",
+    "firstContentfulPaint": 1253,
+    "largestContentfulPaint": 2493,
+    "speedIndex": 1776,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:17:26",
+    "firstContentfulPaint": 1758,
+    "largestContentfulPaint": 2127,
+    "speedIndex": 1597,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:17:37",
+    "firstContentfulPaint": 1330,
+    "largestContentfulPaint": 2760,
+    "speedIndex": 2200,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:17:40",
+    "firstContentfulPaint": 1262,
+    "largestContentfulPaint": 2945,
+    "speedIndex": 1690,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:17:58",
+    "firstContentfulPaint": 1703,
+    "largestContentfulPaint": 2016,
+    "speedIndex": 2379,
+    "performance": 82,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:18:03",
+    "firstContentfulPaint": 1649,
+    "largestContentfulPaint": 2595,
+    "speedIndex": 1535,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:20:32",
+    "firstContentfulPaint": 1346,
+    "largestContentfulPaint": 2636,
+    "speedIndex": 1799,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:20:34",
+    "firstContentfulPaint": 1220,
+    "largestContentfulPaint": 2086,
+    "speedIndex": 1999,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:20:48",
+    "firstContentfulPaint": 1683,
+    "largestContentfulPaint": 2884,
+    "speedIndex": 2219,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:20:49",
+    "firstContentfulPaint": 1377,
+    "largestContentfulPaint": 2057,
+    "speedIndex": 1757,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:21:06",
+    "firstContentfulPaint": 1736,
+    "largestContentfulPaint": 2289,
+    "speedIndex": 1750,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:21:08",
+    "firstContentfulPaint": 1984,
+    "largestContentfulPaint": 2392,
+    "speedIndex": 2178,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:21:22",
+    "firstContentfulPaint": 1818,
+    "largestContentfulPaint": 2717,
+    "speedIndex": 2045,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:21:24",
+    "firstContentfulPaint": 1412,
+    "largestContentfulPaint": 2776,
+    "speedIndex": 1596,
+    "performance": 90,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:21:34",
+    "firstContentfulPaint": 1648,
+    "largestContentfulPaint": 2079,
+    "speedIndex": 2088,
+    "performance": 84,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:21:37",
+    "firstContentfulPaint": 1725,
+    "largestContentfulPaint": 2404,
+    "speedIndex": 1999,
+    "performance": 79,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:21:55",
+    "firstContentfulPaint": 1966,
+    "largestContentfulPaint": 2947,
+    "speedIndex": 2290,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:21:58",
+    "firstContentfulPaint": 1392,
+    "largestContentfulPaint": 2821,
+    "speedIndex": 1759,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:22:21",
+    "firstContentfulPaint": 1789,
+    "largestContentfulPaint": 2026,
+    "speedIndex": 2098,
+    "performance": 80,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:22:25",
+    "firstContentfulPaint": 1687,
+    "largestContentfulPaint": 2016,
+    "speedIndex": 1794,
+    "performance": 78,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:22:38",
+    "firstContentfulPaint": 1460,
+    "largestContentfulPaint": 2402,
+    "speedIndex": 1857,
+    "performance": 92,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:22:39",
+    "firstContentfulPaint": 1781,
+    "largestContentfulPaint": 2800,
+    "speedIndex": 1900,
+    "performance": 88,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:22:39",
+    "firstContentfulPaint": 1948,
+    "largestContentfulPaint": 2712,
+    "speedIndex": 2070,
+    "performance": 83,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/proyeccion/ips",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:22:44",
+    "firstContentfulPaint": 1915,
+    "largestContentfulPaint": 2950,
+    "speedIndex": 2138,
+    "performance": 91,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:22:54",
+    "firstContentfulPaint": 1724,
+    "largestContentfulPaint": 2342,
+    "speedIndex": 1919,
+    "performance": 85,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
+    "screenEmulation": "Desktop (1366x768)",
+    "timestamp": "2026-10-30T12:22:55",
+    "firstContentfulPaint": 1698,
+    "largestContentfulPaint": 2645,
+    "speedIndex": 2283,
+    "performance": 87,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:23:36",
+    "firstContentfulPaint": 1332,
+    "largestContentfulPaint": 2795,
+    "speedIndex": 1573,
+    "performance": 89,
+    "status": "OK"
+  },
+  {
+    "url": "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    "screenEmulation": "Moto G (412x823)",
+    "timestamp": "2026-10-30T12:23:55",
+    "firstContentfulPaint": 1719,
+    "largestContentfulPaint": 2005,
+    "speedIndex": 2115,
+    "performance": 86,
+    "status": "OK"
   }
 ]

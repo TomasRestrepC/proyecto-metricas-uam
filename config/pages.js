@@ -1,17 +1,22 @@
 module.exports = [
   {
-    name: "Oferta Academica",
-    url: "https://www.autonoma.edu.co/oferta-academica",
-    assignedTo: "Integrante 1"
-  },
-  {
     name: "Grupos De Investigacion",
     url: "https://www.autonoma.edu.co/investigacion-innovacion-y-emprendimiento/grupos-de-investigacion",
-    assignedTo: "Integrante 2"
+    assignedTo: "Tomás Restrepo Chica"
   },
   {
-    name: "Noticias",
-    url: "https://www.autonoma.edu.co/conoce-la-uam/noticias",
-    assignedTo: "Integrante 3"
+    name: "Facultad de Salud",
+    url: "https://www.autonoma.edu.co/programas-academicos?facultad=68&modalidad=All&tipo-de-programa=All",
+    assignedTo: "Juan Camilo Pulgarin"
+  },
+  {
+    name: "Eventos UAM",
+    url: "https://www.autonoma.edu.co/conoce-la-uam/eventos",
+    assignedTo: "Juan Camilo Pulgarin"
+  },
+  {
+    name: "Proyeccion IPS",
+    url: "https://www.autonoma.edu.co/proyeccion/ips",
+    assignedTo: "Tomas Restrepo"
   }
 ];

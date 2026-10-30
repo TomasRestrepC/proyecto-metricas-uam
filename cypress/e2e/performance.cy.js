@@ -38,7 +38,16 @@ describe('Automatización de Métricas Web - UAM', () => {
           const metrics = {
             url: pageItem.url,
             screenEmulation: device.name,
-            timestamp: new Date().toISOString(),
+            timestamp: new Intl.DateTimeFormat('sv-SE', {
+              timeZone: 'America/Bogota',
+              year: 'numeric',
+              month: '2-digit',
+              day: '2-digit',
+              hour: '2-digit',
+              minute: '2-digit',
+              second: '2-digit',
+              hour12: false
+            }).format(new Date()).replace(' ', 'T'),
             firstContentfulPaint: Math.round(fcp),
             largestContentfulPaint: Math.round(lcp),
             speedIndex: Math.round(si),

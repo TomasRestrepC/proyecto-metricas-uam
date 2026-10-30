@@ -1,31 +1,29 @@
-// config/schedule.js
 const cron = require('node-cron');
 const { exec } = require('child_process');
 
-// Definición de la programación de ejecuciones (Sección 5 del taller)
 const schedulesConfig = [
   {
-    jobName: "Evaluación Diaria Móvil",
+    jobName: "Evaluación Periodica Móvil",
     enabled: true,
-    cronExpression: "0 6 * * *", // Todos los días a las 6:00 AM
-    timezone: "America/Bogotá",
-    frequency: "diaria",
+    cronExpression: "*/2 * * * *", // Ajuste de horario para pruebas frecuentes (cada 15 minutos)
+    timezone: "America/Bogota",
+    frequency: "periodica",
     device: "mobile",
     pages: ["Oferta Academica", "Grupos De Investigacion", "Noticias"]
   },
   {
-    jobName: "Evaluación Semanal Escritorio",
+    jobName: "Evaluación Periodica Escritorio",
     enabled: true,
-    cronExpression: "0 7 * * 1", // Todos los lunes a las 7:00 AM
-    timezone: "America/Bogotá",
-    frequency: "semanal",
+    cronExpression: "*/2 * * * *", // Ajuste de horario para pruebas frecuentes (cada 15 minutos)
+    timezone: "America/Bogota",
+    frequency: "periodica",
     device: "desktop",
     pages: ["Oferta Academica", "Grupos De Investigacion", "Noticias"]
   }
 ];
 
 function initScheduler() {
-  console.log("🕒 Inicializando programador de tareas (Scheduler) para la UAM...");
+  console.log(" Inicializando programador de tareas (Scheduler) para la UAM...");
 
   schedulesConfig.forEach((job) => {
     if (!job.enabled) {
@@ -51,7 +49,7 @@ function initScheduler() {
       timezone: job.timezone
     });
 
-    console.log(`✔ Job programado con éxito: "${job.jobName}" -> Expresión: ${job.cronExpression} (${job.timezone})`);
+    console.log(` Job programado con éxito: "${job.jobName}" -> Expresión: ${job.cronExpression} (${job.timezone})`);
   });
 }
 
